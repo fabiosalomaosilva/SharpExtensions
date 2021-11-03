@@ -1,4 +1,4 @@
-# SharpExtensions
+# SharpConvertersExtensions
 Pacote com metodos de extensão para conversão facilitada de tipos.
 
 Exemplos de métodos de extensão:
