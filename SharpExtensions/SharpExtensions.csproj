@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Fábio Salomão</Authors>
+    <Product>Sharp Extensions</Product>
+    <Description>Pacote com metodos de extensão para conversão facilitada de tipos.
+
+Exemplos de métodos de extensão:
+ToInt()
+ToLong()
+ToShort()
+ToDete|Time()
+ToDouble()
+FromArrayToString()
+FromArrayToString(characterSeparator)
+ToOrderBy()</Description>
+  </PropertyGroup>
+
+</Project>
