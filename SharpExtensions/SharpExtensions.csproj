@@ -16,6 +16,10 @@ ToDouble()
 FromArrayToString()
 FromArrayToString(characterSeparator)
 ToOrderBy()</Description>
+    <PackageProjectUrl>https://github.com/fabiosalomaosilva/SharpExtensions</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/fabiosalomaosilva/SharpExtensions</RepositoryUrl>
+    <RepositoryType>GitHub</RepositoryType>
+    <PackageId>SharpConvertersExtensions</PackageId>
   </PropertyGroup>
 
 </Project>
